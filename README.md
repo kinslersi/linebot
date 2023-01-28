@@ -1,2 +1,2 @@
 # linebot
-recommend commodities up to you using line bot
+need to setup mongodb and ngrok
